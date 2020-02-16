@@ -1,0 +1,1 @@
+/Users/foppylau/programming/learning/rust/the_rust_programming_language/section_1/target/debug/hello_world: /Users/foppylau/programming/learning/rust/the_rust_programming_language/section_1/src/main.rs
